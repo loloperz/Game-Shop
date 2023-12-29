@@ -1,0 +1,5 @@
+import "./title-component.js"
+import "./gallery-component.js"
+import "./user-component.js"
+import "./game-description-component.js"
+import "./faqs-component.js"
