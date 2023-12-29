@@ -27,6 +27,7 @@ class Faqs extends HTMLElement {
         <h3>Preguntas Frecuentes</h3>
         <h3>Contacto</h3>
         <h3>Quién somos?</h3>
+        <h3>Comunidad</h3>
         </footer>
 
       `
